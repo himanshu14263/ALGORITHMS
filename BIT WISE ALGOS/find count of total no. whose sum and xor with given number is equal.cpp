@@ -1,6 +1,6 @@
 // COUNT NUMBER WHOSE SUM WITH x IS EQUAL TO THE XOR WITH x AND ARE LESS THAN given number
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 int count_zero(int x)
 {
