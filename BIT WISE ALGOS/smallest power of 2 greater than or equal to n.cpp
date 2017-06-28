@@ -13,6 +13,9 @@ int powerOfTwo1(int n)
 // method 2 :: using shift opertors
 int powerOfTwo2(int n)
 {
+	if(n && !(n&(n-1)))
+		return n ;
+	
 	int count =0;
 	while(n)
 	{
