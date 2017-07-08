@@ -1,6 +1,6 @@
 // PROBLEM :: FIND THE SMALLEST NUMBER WHOSE DIGITS MULTIPLY TO FORM THE GIVEN NUMBER.
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void findSmallest(int n)
